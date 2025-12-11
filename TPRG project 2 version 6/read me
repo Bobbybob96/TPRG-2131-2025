@@ -1,0 +1,12 @@
+TPRG project 2 by Thomas Heine
+student ID: 100777741
+
+
+The client runs on a PC and receives system information from Raspberry Pi server.
+Displays each vcgencmd value on a separate line.
+Features automatic retry with user-provided IP addresses.
+
+
+The server runs on Raspberry Pi or PC and receives system information from the client.
+Data is received as a JSON object and displayed in a GUI with real-time updates.
+Features a GUI with connection status LED indicator that toggles as new data arrives.
