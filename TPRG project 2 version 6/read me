@@ -1,6 +1,7 @@
 TPRG project 2 by Thomas Heine
 student ID: 100777741
 
+The GUI is unable to take click priority away from thonny on linux so be sure to move the thonny window away from the client GUI window for best results.
 
 The client runs on a PC and receives system information from Raspberry Pi server.
 Displays each vcgencmd value on a separate line.
